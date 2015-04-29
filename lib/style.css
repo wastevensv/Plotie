@@ -1,0 +1,37 @@
+body {
+  background-color:#eee;
+  padding: 30px;
+  font: 3em "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1, h2 {
+  margin:0 auto 0 auto;
+  display:inline;
+}
+
+h1 {
+  font-size:2em;
+}
+h2 {
+  font-size:1.25em;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#head {
+  margin:0px auto 10px auto;
+  width:50%
+}
+
+#plot {
+  margin:0 auto 0 auto;
+  width:60%;
+}
+
+#foot {
+  margin:10px auto 10px auto;
+  width:40%;
+  font-size:0.5em;
+}
